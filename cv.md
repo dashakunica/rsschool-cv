@@ -32,26 +32,26 @@ and other projects in [Github account](https://github.com/dashakunica)
 WORK EXPERIENCE
 ----------
 
->*07/2019 – 11/2019*
->
->Assistant Auditor
->
->**EY**
->
->Minsk
->
+*07/2019 – 11/2019*
+
+Assistant Auditor
+
+**EY**
+
+Minsk
+
 >* Created thorough audit reports, including results, recommendations and conclusions.
 >* Calculated annual property tax apportionment factors and limits to prepare an assessment for tax jurisdictions.
 >* Prepared balance sheets.
 >* Developed audit scopes and audit programs.
 
->*10/2020 - present*
->
->Support Full Stack Engineer
->
->**Forte Group**
->
->Minsk 
+*10/2020 - present*
+
+Support Full Stack Engineer
+
+**Forte Group**
+
+Minsk 
 > * Working on a large commercial project related to the confidential storage of documents/data.
 >* Сommunication with the team around the world, in different time zones.
 >* Discovering the root cause of production bugs and find possible solutions/workarounds.
