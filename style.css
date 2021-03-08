@@ -1,7 +1,6 @@
-.cv {
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
+* {
+  max-width: 700px;
+  margin: auto;
 }
 
 .avatar {
@@ -22,6 +21,8 @@
   text-align: justify;
 }
 
+P { text-align: center }
+
 td {
   padding: 10px;
   border: 1px solid;
@@ -30,6 +31,19 @@ td {
 td:first-child {
   width: 20%;
   font-weight: bold;
+}
+
+#footer {
+  height: 50px;
+  width: 100%;
+  background-color: #ffcccc;
+  clear: both;
+  position: relative;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
 
 pre { margin: 0; }
